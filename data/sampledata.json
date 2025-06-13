@@ -1,0 +1,842 @@
+[
+{
+    "file_name": "MARPAC-#1382070-V1 QSP W ENG Tech USQ-Kingston Class Applications 108883 AKQT 22Apr14.pdf",
+    "role_title": "Weapons Engineering Technician (W Eng Tech)",
+    "nqual": "AKQT",
+    "mite_ids": "['108883']",
+    "rdims": "",
+    "ntg_qspfileid": "9e5e9703-e3b7-4e06-9dbf-5f58fc0ac4e4",
+    "is_new": false,
+    "amendments": [
+      {
+        "revision": "1.00",
+        "description": "",
+        "date": "30 Jan 01",
+        "authority": "DMTE",
+        "is_new": false
+      },
+      {
+        "revision": "2.00",
+        "description": "",
+        "date": "30 Jan 01",
+        "authority": "DMTE 2-4-2",
+        "is_new": false
+      },
+      {
+        "revision": "2.1",
+        "description": "",
+        "date": "09 Feb 10",
+        "authority": "DMTE and CFNES",
+        "is_new": false
+      },
+      {
+        "revision": "2.2",
+        "description": "",
+        "date": "8 Mar 11",
+        "authority": "DMTE and CFNES",
+        "is_new": false
+      },
+      {
+        "revision": "",
+        "description": "",
+        "date": "",
+        "authority": "O.S.B.// Cdr D.J. Benoit CFNES Cmdt",
+        "is_new": false
+      }
+    ],
+    "details": null,
+    "POs": [
+      {
+        "po": "PO 001",
+        "po_name": "Maintain KINGSTON Class Internal Communications System",
+        "performance": "Maintain KINGSTON Class internal communications system (ICS).",
+        "condition_given": "<ul><li>references;</li><li>equipment;</li><li>tools;</li><li>test equipment;</li><li>spares; and</li><li>assistance.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>any conditions at sea or alongside; and</li><li>day or night.</li></ul>",
+        "standard": "<ul><li>initializing the system, to include:<ul><li>power up; and</li><li>carry out equipment functional check.</li></ul></li><li>fault isolation to the LRU, to include:<ul><li>mechanical sub-systems;</li><li>electronic sub-systems;</li><li>electrical sub-systems; and</li><li>repair and align.</li></ul></li><li>verify system operation, to include:<ul><li>report equipment status to supervisor; and</li><li>power down.</li></ul></li></ul>",
+        "po_references": "['C21', 'C22', 'C23', 'C24', 'C25', 'C26', 'C27', 'C28', 'C29', 'C30', 'C74']",
+        "task_numbers": "['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9', 'D10']",
+        "training_limitations": "",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": [
+          {
+            "eo": "EO 001.01",
+            "eo_name": "Operate the Internal Communications System (ICS)",
+            "performance": "Operate the ICS.",
+            "condition": null,
+            "condition_given": "<ul><li>access to the equipment;</li><li>specified references; and</li><li>minimum supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>describing characteristics, capabilities and limitations, to include:</li><li>main ICS, to include:</li><ul><li>automatic telephones;</li><li>broadcast;</li><li>entertainment system;</li><li>alarm system; and</li><li>intercom.</li></ul><li>stand alone systems, to include;</li><ul><li>self-powered phones,</li><li>voice recorder,</li><li>safe to fire / check fire system, and</li><li>loud hailer.</li></ul></ul>",
+            "eo_references": "['C21', 'C30', 'C74']",
+            "training_aids": "ICS; references; handouts; and PowerPoint presentation.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; and demo.",
+            "total_time_required": "EO - 2 X 50 minute periods; and EC - 1 X 50 minute period ..",
+            "test_details": "EO 001.01 to be tested with EC 001.01 and part of PC 001 IAW Annex K",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          },
+          {
+            "eo": "EO 001.02",
+            "eo_name": "Initialize the Internal Communications System (ICS)",
+            "performance": "Initialize the ICS.",
+            "condition": null,
+            "condition_given": "<ul><li>access to the equipment;</li><li>specified references; and</li><li>minimum supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>initializing the main ICS, to include:</li><ul><li>automatic telephones;</li><li>broadcast;</li><li>entertainment system;</li><li>alarm system; and</li><li>intercom.</li></ul><li>initializing stand-alone systems, to include:</li><ul><li>self-powered phones;</li><li>voice recorder;</li><li>safe to fire / check fire system; and</li><li>loud hailer.</li></ul></ul>",
+            "eo_references": "['C21', 'C30', 'C74']",
+            "training_aids": "ICS; references; handouts; and PowerPoint presentation.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; demo; and practical.",
+            "total_time_required": "EO - 4 X 50 minute periods.",
+            "test_details": "EO 001.02 to be tested as part of PC 001 IAW Annex K.",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          },
+          {
+            "eo": "EO 001.03",
+            "eo_name": "Rectify System faults On The Internal Communications System (ICS)",
+            "performance": "Rectify system faults on the ICS.",
+            "condition": null,
+            "condition_given": "<ul><li>relevant fault scenarios;</li><li>tools/test equipment;</li><li>assistance;</li><li>specified references; and</li><li>minimum supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>rectifying main ICS, to include:</li><ul><li>automatic telephones;</li><li>broadcast;</li><li>entertainment system;</li><li>alarm system; and</li><li>intercom.</li></ul><li>rectifying stand-alone systems, to include:</li><ul><li>self-powered phones;</li><li>voice recorder;</li><li>safe to fire / check fire system; and</li><li>loud hailer.</li></ul></ul>",
+            "eo_references": "['C21', 'C30', 'C74']",
+            "training_aids": "ICS; references; handouts; and tools and test equipment.",
+            "remarks": "all students to rectify system faults.",
+            "instructional_methods": "lecture; demo; practical; and guided discussion.",
+            "total_time_required": "EO - 7 X 50 minute periods; and PC - 8 X 50 minute periods.",
+            "test_details": "EO 001.03 to be tested as part of PC 001 IAW Annex K; and PC 001 and debrief to be conducted with a 50 min time limit (corrective measures start at min 45).",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          }
+        ]
+      },
+      {
+        "po": "PO 002",
+        "po_name": "Maintain KINGSTON Class External Communications System",
+        "performance": "Maintain KINGSTON Class external communications system.",
+        "condition_given": "<ul><li>references;</li><li>equipment;</li><li>tools</li><li>test equipment;</li><li>spares; and</li><li>assistance.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>day or night</li><li>any conditions at sea or alongside.</li></ul>",
+        "standard": "<ul><li>initializing the system, to include:<ul><li>power up; and</li><li>carry out equipment functional check.</li></ul></li><li>fault isolation to the LRU, to include:<ul><li>mechanical sub-systems;</li><li>electronic sub-systems;</li><li>electrical sub-systems; and</li><li>repair and align.</li></ul></li><li>verify system operation to include:<ul><li>report equipment status to supervisor; and</li><li>power down.</li></ul></li></ul>",
+        "po_references": "['A5', 'A14', 'C42', 'C43', 'C44', 'C45', 'C46', 'C47', 'C48', 'C49', 'C50', 'C51', 'C52', 'C53', 'C70', 'C71', 'C72', 'C73', 'C74']",
+        "task_numbers": "['J1', 'J2', 'J3', 'J4', 'J5', 'J6', 'J7', 'J8', 'J9', 'J10', 'J11', 'J12', 'J13', 'J14', 'J15', 'J16', 'J17', 'J18', 'J19', 'J20', 'J21', 'J22', 'J23', 'J24', 'J25', 'J26', 'J27', 'J28', 'J29', 'J30', 'J31', 'J32', 'J33', 'J34', 'J35', 'J36', 'J37', 'J38', 'J39', 'J40', 'J41', 'J42', 'J43', 'J44', 'J45', 'J46', 'J47', 'J48', 'J49', 'J50', 'J51', 'J52', 'J53', 'J54', 'J55', 'J56', 'J57', 'J58', 'J59', 'J60', 'J61', 'J62', 'J63', 'J64', 'J65', 'J66', 'J67', 'J68', 'J69', 'J70', 'J71', 'J72', 'J73', 'J74', 'J75', 'J76', 'J77', 'J78', 'J79', 'J80', 'J81', 'J82', 'J83', 'J84', 'J85', 'J86', 'J87', 'J88', 'J89', 'J90', 'J91', 'J92', 'J93', 'J94', 'J95', 'J96', 'J97', 'J98', 'J99']",
+        "training_limitations": "Nil.",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": [
+          {
+            "eo": "EO 002.01",
+            "eo_name": "Operate External Communications System (ECS)",
+            "performance": "Operate the external communications system.",
+            "condition": null,
+            "condition_given": "<ul><li>access to the equipment;</li><li>specified references; and</li><li>minimum supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>describing ECS subsystem characteristics, capabilities and limitations, to include:</li><ul><li>HF Radio Communication Subsystem;</li><li>VHF Radio Communication Subsystem;</li><li>UHF Radio Communication Subsystem;</li><li>Radio Remote Control Subsystem (RRCS);</li><li>Communications Control and Monitoring Subsystem (CCMS);</li><li>Message Handling System (MHS);</li><li>Fleet Broadband (FBB);</li><li>MCOIN; and</li><li>Signal/Search Lights.</li></ul></ul>",
+            "eo_references": "['A8', 'A14', 'C42', 'C53', 'C70', 'C71', 'C74']",
+            "training_aids": "references; handouts; and PowerPoint presentation.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; and demo.",
+            "total_time_required": "6  50 minute periods; and EC - 1 X 50 minute period ..",
+            "test_details": "EO 002.01 to be tested with EC 002.01 and part of PC 002 IAW Annex K",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          },
+          {
+            "eo": "EO 002.02",
+            "eo_name": "Initialize External Communications System (ECS)",
+            "performance": "Initialize external communications system.",
+            "condition": null,
+            "condition_given": "<ul><li>access to the equipment;</li><li>specified references; and</li><li>minimum supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>powering up;</li><li>carrying out equipment functional checks;</li><li>verifying system operation;</li><li>reporting equipment status to supervisor;</li><li>powering down; and</li><li>initializing the following ECS subsystems, to include:<ul><li>HF Radio Communication Subsystem;</li><li>VHF Radio Communication Subsystem;</li><li>UHF Radio Communication Subsystem;</li><li>Radio Remote Control Subsystem (RRCS);</li><li>Communications Control and Monitoring Subsystem (CCMS);</li><li>Message Handling System (MHS);</li><li>Fleet Broadband (FBB);</li><li>MCOIN; and</li><li>Signal/Search Lights.</li></ul></li></ul>",
+            "eo_references": "['A14', 'C42', 'C43', 'C44', 'C45', 'C46', 'C47', 'C48', 'C49', 'C50', 'C51', 'C52', 'C53', 'C70', 'C71', 'C72', 'C73', 'C74']",
+            "training_aids": "references; handouts; and PowerPoint presentation.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; and demo.",
+            "total_time_required": "11 X 50 minute periods.",
+            "test_details": "EO 002.02 to be tested as part of PC 002.",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": [
+              {
+                "teaching_point": "1. Review the functional description of the 9 sub-functions to include:",
+                "teaching_subpoints": "",
+                "instructions": "L",
+                "time": "250",
+                "remarks": "",
+                "cognitive": "Understanding",
+                "psychomotor": "",
+                "affective": "",
+                "rationale": "Reviewing the functional description helps in understanding the overall system.",
+                "learning_objectives": "",
+                "is_new": false
+              },
+              {
+                "teaching_point": "2. Explain for External Communications System, to include:",
+                "teaching_subpoints": "<ul><li>a) power up;</li><li>b) carry out equipment functional checks;</li><li>c) verify system operation;</li><li>d) report equipment status to supervisor; and,</li><li>e) power down.</li></ul>",
+                "instructions": "L",
+                "time": "250",
+                "remarks": "",
+                "cognitive": "Understanding",
+                "psychomotor": "",
+                "affective": "",
+                "rationale": "Explaining the steps ensures the trainee understands the process of initializing the system.",
+                "learning_objectives": "",
+                "is_new": false
+              },
+              {
+                "teaching_point": "3. Demonstrate for External Communications System, to include:",
+                "teaching_subpoints": "<ul><li>a) power up;</li><li>b) carry out equipment functional checks;</li><li>c) verify system operation;</li><li>d) report equipment status to supervisor; and,</li><li>e) power down.</li></ul>",
+                "instructions": "D",
+                "time": "150",
+                "remarks": "",
+                "cognitive": "Applying",
+                "psychomotor": "Guided Response",
+                "affective": "",
+                "rationale": "Demonstrating the process helps in applying the knowledge practically.",
+                "learning_objectives": "",
+                "is_new": false
+              }
+            ],
+            "LGs": null
+          },
+          {
+            "eo": "EO 002.03",
+            "eo_name": "Rectify System Faults in the External Communications System (ECS)",
+            "performance": "Rectify system faults in the ECS.",
+            "condition": null,
+            "condition_given": "<ul><li>access to the equipment;</li><li>specified references; and</li><li>minimum supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>rectifying faults in the following subsystems, to include:<ul><li>HF Radio Communication Subsystem;</li><li>VHF Radio Communication Subsystem;</li><li>UHF Radio Communication Subsystem;</li><li>Radio Remote Control Subsystem (RRCS);</li><li>Communications Control and Monitoring Subsystem (CCMS);</li><li>Message Handling System (MHS);</li><li>Fleet Broadband (FBB);</li><li>MCOIN; and</li><li>Signal/Search Lights.</li></ul></li></ul>",
+            "eo_references": "['C70', 'C71', 'C72', 'C73', 'C74']",
+            "training_aids": "references; external communications equipment; handouts; and tools and test equipment.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; demo; scenario; and guided discussion.",
+            "total_time_required": "EO - 7 X 50 minute periods. PC - 8 X 50 minute periods.",
+            "test_details": "EO 002.03 to be tested as part of PC 002 IAW Annex K; and PC 002 and debrief to be conducted with a 50 min time limit (corrective measures start at min 45).",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          }
+        ]
+      },
+      {
+        "po": "PO 003",
+        "po_name": "Maintain KINGSTON Class Navigational System",
+        "performance": "Maintain KINGSTON Class navigational system.",
+        "condition_given": "<ul><li>references;</li><li>equipment;</li><li>tools;</li><li>test equipment;</li><li>spares; and</li><li>assistance.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>day or night; and</li><li>any conditions at sea or alongside.</li></ul>",
+        "standard": "<ul><li>initialize the system, to include:<ul><li>power up; and</li><li>carry out equipment functional check.</li></ul></li><li>fault isolate to the LRU, to include:<ul><li>mechanical sub-systems;</li><li>electronic sub-systems;</li><li>electrical sub-systems; and</li><li>repair and align.</li></ul></li><li>verify system operation, to include:<ul><li>report equipment status to supervisor; and</li><li>power down.</li></ul></li></ul>",
+        "po_references": "['A5', 'A14', 'C1', 'C18', 'C33', 'C41', 'C74', 'C76']",
+        "task_numbers": "['N1', 'N101', 'M1', 'M63']",
+        "training_limitations": "Nil.",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": null
+      },
+      {
+        "po": "PO 004",
+        "po_name": "Maintain KINGSTON Class Mine Warfare Control System",
+        "performance": "Maintain KINGSTON Class Mine Warfare Control System.",
+        "condition_given": "<ul><li>references;</li><li>equipment;</li><li>tools;</li><li>test equipment;</li><li>spares; and</li><li>assistance.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>day or night; and</li><li>any conditions at sea or alongside.</li></ul>",
+        "standard": "<ul><li>initializing the system, to include:<ul><li>power up; and</li><li>carry out equipment functional check.</li></ul></li><li>fault isolate to the LRU, to include:<ul><li>mechanical sub-systems;</li><li>electronic sub-systems;</li><li>electrical sub-systems; and</li><li>repair and align.</li></ul></li><li>verify system operation to include:<ul><li>report equipment status to supervisor; and</li><li>power down.</li></ul></li></ul>",
+        "po_references": "['A14', 'C54', 'C62', 'C63', 'C64', 'C65', 'C66', 'C67', 'C68', 'C69', 'C74']",
+        "task_numbers": "['TBD']",
+        "training_limitations": "Nil.",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": null
+      },
+      {
+        "po": "PO 005",
+        "po_name": "Maintain KINGSTON Class Payloads",
+        "performance": "Maintain KINGSTON Class Payloads.",
+        "condition_given": "<ul><li>references;</li><li>equipment;</li><li>tools;</li><li>test equipment;</li><li>spares; and</li><li>assistance.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>day or night; and</li><li>any conditions at sea or alongside.</li></ul>",
+        "standard": "<ul><li>initializing the payloads, to include:<ul><li>power up; and</li><li>carry out equipment functional check.</li></ul></li><li>fault isolate to the LRU, to include:<ul><li>mechanical sub-systems;</li><li>electronic sub-systems;</li><li>electrical sub-systems; and</li><li>repair and align.</li></ul></li><li>verify system operation, to include:<ul><li>report equipment status to supervisor; and</li><li>power down.</li></ul></li></ul>",
+        "po_references": "['A14', 'C54', 'C62', 'C63', 'C64', 'C65', 'C66', 'C67', 'C68', 'C69', 'C74']",
+        "task_numbers": "['A1']",
+        "training_limitations": "Nil.",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": [
+          {
+            "eo": "EO 005.03",
+            "eo_name": "Rectify System Faults In the Payloads",
+            "performance": "Initialize Payloads.",
+            "condition": null,
+            "condition_given": "<ul><li>relevant fault scenarios;</li><li>tools / test equipment and spares as applicable;</li><li>assistance;</li><li>references; and</li><li>supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>rectifying faults in the following components to include:</li><li>route survey;</li><li>mine Inspection; and</li><li>mechanical mine sweeping</li></ul>",
+            "eo_references": "['C69', 'C74']",
+            "training_aids": "references; payloads; and handouts.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; guided discussion; demo; and practice.",
+            "total_time_required": "EO - 7 X 50 minute periods; and PC - 8 X 50 minute periods.",
+            "test_details": "EO 005.03 to be tested as part of PC 005 IAW Annex K; and PC 005 and debrief to be conducted with a 50 minute time limit (corrective measures start at Minute 45).",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          }
+        ]
+      },
+      {
+        "po": "PO 006",
+        "po_name": "Conduct KINGSTON Class Technical Administration Procedures",
+        "performance": "Conduct KINGSTON Class technical administration procedures.",
+        "condition_given": "<ul><li>references;</li><li>equipment;</li><li>tools;</li><li>test equipment;</li><li>spares; and</li><li>assistance.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>day or night; and</li><li>any conditions at sea or alongside.</li></ul>",
+        "standard": "<ul><li>generating/completing maintenance administration;</li><li>initiating/tracking maintenance routines, to include:<ul><li>PM routines; and</li><li>corrective maintenance history.</li></ul></li><li>tracking critical spare inventory;</li><li>tracking Health monitoring.</li><li>conducting external support administration, to include:<ul><li>completing messages (OPDEFs);</li><li>verifying understanding of ship/MOG/ISSC/contractor liaison; and</li><li>verifying understanding of maintenance responsibilities.</li></ul></li></ul>",
+        "po_references": "['A1', 'A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9']",
+        "task_numbers": "['A2', 'A3', 'A4', 'A5', 'A6', 'A7', 'A8', 'A9', 'A10', 'A11', 'A12', 'A13', 'A14']",
+        "training_limitations": "",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": [
+          {
+            "eo": "EO 006.01",
+            "eo_name": "Operate Maintenance Administration System (Isherwood)",
+            "performance": "Operate Maintenance Administration System (Isherwood).",
+            "condition": null,
+            "condition_given": "<ul><li>access to equipment;</li><li>references; and</li><li>supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>generating/completing Work Estimate Action Form (WEAF);</li><li>initiating/tracking Maintenance Routines, to include:</li><li>PM Routines; and</li><li>Corrective Maintenance history.</li><li>tracking critical spare inventory.</li></ul>",
+            "eo_references": "['A4', 'A6', 'A7', 'A8', 'A10', 'B1']",
+            "training_aids": "handouts; power point presentations; Isherwood computer; and references.",
+            "remarks": "all trainees should have hands on opportunity to navigate the Maintenance Administration System.",
+            "instructional_methods": "lecture; and demo.",
+            "total_time_required": "EO - 3 X 50 minute periods; and EC - 1 X 50 minute period.",
+            "test_details": "EO 006.01 will be tested with EC 006.01 IAW Annex K.",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          },
+          {
+            "eo": "EO 006.02",
+            "eo_name": "Conduct External Support Administration",
+            "performance": "Conduct external support administration.",
+            "condition": null,
+            "condition_given": "<ul><li>references; and</li><li>supervision.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea of alongside; and</li><li>day or night.</li></ul>",
+            "standard": "<ul><li>completing messages (OPDEFs);</li><li>explaining ship/MOG/ISSC/contractor liaison; and</li><li>explaining maintenance responsibilities.</li></ul>",
+            "eo_references": "['A4', 'A10']",
+            "training_aids": "handouts; power point presentations; and references.",
+            "remarks": "Nil.",
+            "instructional_methods": "lecture; and demo.",
+            "total_time_required": "EO - 4 X 50 minute periods; and EC - 2 X 50 minute period.",
+            "test_details": "EO 006.02 to be tested with EC 006.02 IAW Annex K.",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          }
+        ]
+      },
+      {
+        "po": "PO 007",
+        "po_name": "Perform the Duties of Magazine Custodian",
+        "performance": "PO 007 shall be carried out IAW PO 001 of the Ammunition Custodian Course 118948.",
+        "condition_given": "<ul><li>references;</li><li>tools;</li><li>assistance;</li><li>access to outside agencies; and</li><li>ammunition and explosives.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>day or night; and</li><li>any shipboard conditions at sea or alongside.</li></ul>",
+        "standard": "<ul><li>PO 007 shall be carried out duties of the Magazine Custodian IAW PO 001 of the Ammunition Custodian Course 118948.</li></ul>",
+        "po_references": "['IAW PO 001 of the Ammunition Custodian Course 118948']",
+        "task_numbers": "['IAW Annex B Ammunition Custodian Course QSP']",
+        "training_limitations": "IAW PO 001 of the Ammunition Custodian Course QSP.",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": [
+          {
+            "eo": "EO 007.01",
+            "eo_name": "Demonstrate Detailed Knowledge of Ammunition and Explosives Documentation and Reports",
+            "performance": "EO 007.01 shall be carried out IAW PO 001 of the Ammunition Custodian Course QSP 118948.",
+            "condition": null,
+            "condition_given": "<ul><li>references;</li><li>tools;</li><li>assistance;</li><li>access to outside agencies; and</li><li>ammunition and explosives.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>day or night; and</li><li>any shipboard conditions at sea or alongside.</li></ul>",
+            "standard": "PO 007.01 shall be carried out IAW PO 001 of the Ammunition Custodian Course QSP 118948.",
+            "eo_references": "['IAW PO 001 of the Ammunition Custodian Course QSP']",
+            "training_aids": "IAW PO 001 of the Ammunition Custodian Course QSP.",
+            "remarks": "All trainees require a Level II security clearance.",
+            "instructional_methods": "IAW PO 001 Ammunition Custodian Course QSP.",
+            "total_time_required": "IAW PO 001 of the Ammunition Custodian Course QSP.",
+            "test_details": "Ammunition Custodian Course QSP.",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          }
+        ]
+      },
+      {
+        "po": "PO 008",
+        "po_name": "Conduct a Shipborne Hazardous Material Release Clean-up",
+        "performance": "PO 008 shall be carried out IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training Course 109299.",
+        "condition_given": "<ul><li>references;</li><li>supervision;</li><li>detection identification monitoring equipment</li><li>assistance for response;</li><li>PPE;</li><li>uncontrolled release;</li><li>clean-up; and</li><li>hazmat organization.</li></ul>",
+        "condition_denied": "<ul><li>Nil.</li></ul>",
+        "condition_environment": "<ul><li>any shipboard conditions at sea or alongside; and</li><li>day or night.</li></ul>",
+        "standard": "<ul><li>PO 008 shall be carried out IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training Course 109299.</li></ul>",
+        "po_references": "['IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training Course 109299.']",
+        "task_numbers": "['IAW Annex B Halifax Class Hazardous Material Release Clean-up Team Training Course 109299.']",
+        "training_limitations": "IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training Course 109299.",
+        "remarks": "",
+        "is_new": false,
+        "tasks": null,
+        "EOs": [
+          {
+            "eo": "EO 008.01",
+            "eo_name": "Conduct Rapid Response",
+            "performance": "EO 008.01 shall be carried out IAW PO 001 of the Halifax Class Ship Hazardous Material Release Clean-up Team Training QSP 109299.",
+            "condition": null,
+            "condition_given": "<ul><li>references;</li><li>supervision;</li><li>Detection identification monitoring equipment;</li><li>Assistance for response;</li><li>PPE;</li><li>uncontrolled release;</li><li>clean-up; and</li><li>Hazmat organization.</li></ul>",
+            "condition_denied": "<ul><li>Nil.</li></ul>",
+            "condition_environment": "<ul><li>any shipboard conditions at sea or alongside; and</li><li>day or night.</li></ul>",
+            "standard": "PO 008.01 shall be carried out IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training QSP 109299.",
+            "eo_references": "['IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training QSP']",
+            "training_aids": "IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training QSP.",
+            "remarks": "N/A.",
+            "instructional_methods": "IAW PO 001 Halifax Class Hazardous Material Release Clean-up Team Training QSP.",
+            "total_time_required": "IAW PO 001 of the Halifax Class Hazardous Material Release Clean-up Team Training QSP.",
+            "test_details": "IAW PO 001of the Halifax Class Hazardous Material Release Clean-up Team Training QSP.",
+            "learning_objectives": "",
+            "is_new": false,
+            "teaching_points": null,
+            "LGs": null
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "reference_code": "A1",
+        "publication": "C-03-005-033/AA-001 NEMS VOL 2",
+        "is_new": false
+      },
+      {
+        "reference_code": "A2",
+        "publication": "C-01-000-000/AG-001 Technical Pub Index (1)",
+        "is_new": false
+      },
+      {
+        "reference_code": "A3",
+        "publication": "C-01-000-000/AG-002 Technical Pub Index (2)",
+        "is_new": false
+      },
+      {
+        "reference_code": "A4",
+        "publication": "C-01-000-000/AG-003 Pub Cross Reference List (1)",
+        "is_new": false
+      },
+      {
+        "reference_code": "A5",
+        "publication": "C-02-040-003/TP-000 Radiation Hazard Safety Officer Handbook",
+        "is_new": false
+      },
+      {
+        "reference_code": "A6",
+        "publication": "A-LM-181-001/JS-001 Supply Instructions",
+        "is_new": false
+      },
+      {
+        "reference_code": "A7",
+        "publication": "A-LP-005-000/AG-001 Logistics Support",
+        "is_new": false
+      },
+      {
+        "reference_code": "A8",
+        "publication": "Know Your Ship HMCS Kingston",
+        "is_new": false
+      },
+      {
+        "reference_code": "A10",
+        "publication": "A-PD-055-002/PP-002 W ENG TECH MOSID 00366",
+        "is_new": false
+      },
+      {
+        "reference_code": "A13",
+        "publication": "CF Naval Engineering School Halifax Standing Orders",
+        "is_new": false
+      },
+      {
+        "reference_code": "A14",
+        "publication": "Marcord Vol 1",
+        "is_new": false
+      },
+      {
+        "reference_code": "B1",
+        "publication": "Maintenance Administration Guide Book (ISHERWOOD System)",
+        "is_new": false
+      },
+      {
+        "reference_code": "C3",
+        "publication": "Maintenance Plan for the Magnetic Compass System V4AC",
+        "is_new": false
+      },
+      {
+        "reference_code": "C4",
+        "publication": "Operation and Maintenance Manual for the MCDV Magnetic Compass System V4AC-CE-1/1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C5",
+        "publication": "Maintenance Plan for the Acoustic Speed Log System V4AD",
+        "is_new": false
+      },
+      {
+        "reference_code": "C6",
+        "publication": "Operation and Maintenance Manual for the MCDV Acoustic Speed Log System V4AD",
+        "is_new": false
+      },
+      {
+        "reference_code": "C7",
+        "publication": "Maintenance Plan for the Echo Sounder System V4AE",
+        "is_new": false
+      },
+      {
+        "reference_code": "C8",
+        "publication": "Operation and Technical Manual for the MCDV Echo Sounder System V4AE- CE",
+        "is_new": false
+      },
+      {
+        "reference_code": "C9",
+        "publication": "Maintenance Plan for the Meteorological System V4AF",
+        "is_new": false
+      },
+      {
+        "reference_code": "C10",
+        "publication": "Operation and Maintenance Manual for the Meteorological System V4AF-CS- 3/3",
+        "is_new": false
+      },
+      {
+        "reference_code": "C11",
+        "publication": "Maintenance Plan for the Gyro Compass System V4AG",
+        "is_new": false
+      },
+      {
+        "reference_code": "C12",
+        "publication": "Installation and Operation Manual for the Gyro Compass System V4AG-BE-1 /1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C13",
+        "publication": "Maintenance Plan for the Global Positioning System V4AH",
+        "is_new": false
+      },
+      {
+        "reference_code": "C14",
+        "publication": "Operating Instructions Manual for the Global Positioning System V4AH",
+        "is_new": false
+      },
+      {
+        "reference_code": "C15",
+        "publication": "Maintenance Plan for the Global Positioning System Shore Reference Station Transportable V4AH",
+        "is_new": false
+      },
+      {
+        "reference_code": "C16",
+        "publication": "Operating Instructions Manual for the Global Positioning System Shore Reference Station Transportable G-1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C19",
+        "publication": "Maintenance Plan for the Fire Control System V4BA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C20",
+        "publication": "Operation and Maintenance Manual for the MCDV Fire Control System V4BA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C21",
+        "publication": "Maintenance Plan for the Self Powered Telephone System",
+        "is_new": false
+      },
+      {
+        "reference_code": "C22",
+        "publication": "Telephone Outline Manual for the Self Powered Telephone V4BB-CS-1/1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C23",
+        "publication": "Maintenance Plan for the Interior Communications Subsystem V4B",
+        "is_new": false
+      },
+      {
+        "reference_code": "C24",
+        "publication": "Interior Communications Handbook for the MCDV Subsystem",
+        "is_new": false
+      },
+      {
+        "reference_code": "C25",
+        "publication": "Maintenance Plan for the Main Broadcast and Alarm Subsystem V4BCB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C26",
+        "publication": "Handbook for the Main Broadcast and Alarm Subsystem V4BC",
+        "is_new": false
+      },
+      {
+        "reference_code": "C29",
+        "publication": "Megaphone Instruction Manual V4BC",
+        "is_new": false
+      },
+      {
+        "reference_code": "C30",
+        "publication": "Handbook for the Play/Record Cassette Deck V4BC",
+        "is_new": false
+      },
+      {
+        "reference_code": "C31",
+        "publication": "Maintenance Plan for the Acoustic Positioning System V4DB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C32",
+        "publication": "Operation and Maintenance Manual for the Trackpoint II System, Acoustic Positioning System V4DB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C33",
+        "publication": "Maintenance Plan for the VHF Direction Finder V4EA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C34",
+        "publication": "Operation and Level One Maintenance Manual for the MCDV VHF Automatic Digital Direction Finder V4EA-CE-2/2",
+        "is_new": false
+      },
+      {
+        "reference_code": "C35",
+        "publication": "Maintenance Plan X-Band RADAR V4FAA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C36",
+        "publication": "Maintenance Plan S-Band RADAR V4FAB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C37",
+        "publication": "Maintenance Plan Displays Interswitch Unit V4FAC/V4FAD",
+        "is_new": false
+      },
+      {
+        "reference_code": "C38",
+        "publication": "System Handbook for the CF MCDV RADAR System V4FA-CS-1/1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C39",
+        "publication": "User Manual Operation and Maintenance of the Nucleus Displays V4FAC-CE-1 /2",
+        "is_new": false
+      },
+      {
+        "reference_code": "C40",
+        "publication": "Maintenance Plan for the Optical Surveillance System V4FB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C41",
+        "publication": "Ship Binocular 20 Mark III Mod 4 & 5 Manual for the Optical Surveillance System V4FB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C42",
+        "publication": "Maintenance Plan for the LF/MF/HF Radio Comms Subsystem V4GA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C43",
+        "publication": "Operation and Maintenance Manual for the MCDV HF Radio Transmit/Receive Subsystem V4GAA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C44",
+        "publication": "Maintenance Plan for VHF Radio Comms Subsystem V4GB",
+        "is_new": false
+      },
+      {
+        "reference_code": "C45",
+        "publication": "Instruction Book for Sailor Multi-Remote VHF System, MP+/MPc VHF-FM Marine Portable Radio Manual for the MCDV VHF Radio Comms Subsystem V4GBA-CE-1/1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C46",
+        "publication": "Maintenance Plan for the UHF Radio Comms Subsystem V4GC REV D",
+        "is_new": false
+      },
+      {
+        "reference_code": "C47",
+        "publication": "Operation and Maintenance Manual for the MCDV UHF Radio Subsystem V4GC",
+        "is_new": false
+      },
+      {
+        "reference_code": "C48",
+        "publication": "Maintenance Plan for the Radio Remote Control Subsystem V4GD",
+        "is_new": false
+      },
+      {
+        "reference_code": "C49",
+        "publication": "Operation and Maintenance Manual for the MCDV Radio Remote Control Subsystem V4GD-CS-1/1",
+        "is_new": false
+      },
+      {
+        "reference_code": "C50",
+        "publication": "Maintenance Plan for the Signal/Search Subsystem V4GE",
+        "is_new": false
+      },
+      {
+        "reference_code": "C51",
+        "publication": "Operation and Maintenance Manual for the MCDV Kelamp Signalling Lantern System V4GEC",
+        "is_new": false
+      },
+      {
+        "reference_code": "C52",
+        "publication": "Maintenance Plan for the Comms Control and Monitoring and Message Processing Subsystem V4GG/V4GF",
+        "is_new": false
+      },
+      {
+        "reference_code": "C53",
+        "publication": "Operation and Maintenance Manual for the MCDV Communication Control and",
+        "is_new": false
+      },
+      {
+        "reference_code": "C54",
+        "publication": "Maintenance Plan for the Oceanographic Subsystem V4HA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C55",
+        "publication": "Sonar 2090 Integrated Bathymetric Information System Manual V4HA-CE-2/2",
+        "is_new": false
+      },
+      {
+        "reference_code": "C56",
+        "publication": "Maintenance Plan for the Mine Warfare Control System Tactical Console V4JA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C57",
+        "publication": "ECPINS Tactical Console Operation and Maintenance Manual V4JA",
+        "is_new": false
+      },
+      {
+        "reference_code": "C61",
+        "publication": "Ship's Administrative Computer System User's Manual V6",
+        "is_new": false
+      },
+      {
+        "reference_code": "C62",
+        "publication": "Maintenance Plan for the Route Survey Data Analysis Facility (RSDAF)/(COPAC)",
+        "is_new": false
+      },
+      {
+        "reference_code": "C63",
+        "publication": "RSDAF/COPAC System Integration (Level I and Level II Maintenance) Manual",
+        "is_new": false
+      },
+      {
+        "reference_code": "C64",
+        "publication": "Maintenance Plan for the Mechanical Mine Sweeping System V8",
+        "is_new": false
+      },
+      {
+        "reference_code": "C65",
+        "publication": "MWCS Integrated System Manual and System User's Manual for the MCDV Mechanical Mine Sweeping System V8",
+        "is_new": false
+      },
+      {
+        "reference_code": "C66",
+        "publication": "Maintenance Plan for the Route Survey System V8C",
+        "is_new": false
+      },
+      {
+        "reference_code": "C67",
+        "publication": "MWCS Integrated System Manual and System User's Manual for the MCDV Route Survey System V8C",
+        "is_new": false
+      },
+      {
+        "reference_code": "C68",
+        "publication": "Maintenance Plan for the Mine Inspection System V8E",
+        "is_new": false
+      },
+      {
+        "reference_code": "C69",
+        "publication": "MWCS Integrated System Manual and System User's Manual for the MCDV Mine Inspection System V8E",
+        "is_new": false
+      },
+      {
+        "reference_code": "C70",
+        "publication": "MX 2464 Operator's Manual (R-8000)",
+        "is_new": false
+      },
+      {
+        "reference_code": "C71",
+        "publication": "MX 2464 Installation and Service Manual (R-8001)",
+        "is_new": false
+      },
+      {
+        "reference_code": "C72",
+        "publication": "MX 2464 Options Manual (R-8002)",
+        "is_new": false
+      },
+      {
+        "reference_code": "C73",
+        "publication": "MX 2464 User's Quick Guide (R-8003)",
+        "is_new": false
+      },
+      {
+        "reference_code": "C74",
+        "publication": "KINGSTON Class W ENG TECH student handout",
+        "is_new": false
+      },
+      {
+        "reference_code": "C75",
+        "publication": "C-57-787-000/MS-001 SHINNADS Operation & Maintenance Manual with parts list",
+        "is_new": false
+      },
+      {
+        "reference_code": "C76",
+        "publication": "C-57-787-000/MS/001 Operator's Manual ECPINS SHINNADS V1.0",
+        "is_new": false
+      }
+    ]
+  }
+]

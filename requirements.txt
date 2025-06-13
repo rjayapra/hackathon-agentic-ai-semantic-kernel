@@ -1,0 +1,6 @@
+semantic-kernel
+openai
+python-dotenv
+flask                  # For building a simple web UI
+faiss-cpu              # For vector-based memory search
+azure-search-documents # If using Azure Cognitive Search for memory

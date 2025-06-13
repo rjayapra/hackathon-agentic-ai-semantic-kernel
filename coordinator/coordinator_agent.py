@@ -1,5 +1,8 @@
-from agents.file_agent import handle_query
+from agents.file_agent import FileAgent
 
 def route_query(query, memory):
-    # For demonstration, route everything to the file agent
-    return handle_query(query, memory)
+    query_lower = query.lower()
+    if "file" in query_lower:
+        return FileAgent(query, memory)
+   
+    return "Query type not recognized."
